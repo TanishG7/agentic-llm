@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.env
+venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Docker
+storage/  # Exclude local index storage
+docs/     # Exclude local documents if they contain sensitive data
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db

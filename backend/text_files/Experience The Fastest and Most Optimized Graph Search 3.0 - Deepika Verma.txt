@@ -1,0 +1,292 @@
+Deepika V erma <deepika@indiamart.com>
+[MPLaunch@IM] Experience The Fastest and Most Optimized Graph Search 3.0  
+3 messages
+Ashutosh Singh <ashutosh.singh@indiamart.com> Thu, Apr 7, 2022 at 10:25 AM
+To: Marketplace Launch <marketplacelaunch@indiamart.com>, Dinesh Agarwal <da@indiamart.com>, Amarinder S Dhaliwal
+<amarinder@indiamart.com>
+Cc: V ikram V arshney <vikram.varshney@indiamart.com>, Abhishek Bhartia <abhishek@indiamart.com>, Samarendra Pratap
+<samarendra.pratap@indiamart.com>, A yush Gupta <ayush.gupta@indiamart.com>, Neha Singh <neha.singh2@indiamart.com>, Rohan V erma
+<verma.rohan@indiamart.com>, Ravi Kumar <kumar .ravi5@indiamart.com>, Himanshu Jain <himanshu.jain2@indiamart.com>, Paras Lehana
+<paras.lehana@indiamart.com>, Akshansh Narula <akshansh.narula@indiamart.com>, cat_internal <cat_internal@indiamart.com>
+Hi All,
+We are pleased to inform you that Graph Search 3.0  has been made live for MCA T Prediction. 
+In this major update, Graph Search 3.0 has been optimized with a new schema architecture  that promises a blazing fast speed,  scale, and
+performance.
+What has been Done?
+We have refactored the Current Graph Schema by separating the Keyword property from the Product Node and revamped the queries
+for traversing the Graph Model and Index.  
+PFB the previous and new schema of the Graph Search Model
+Previous Schema
+New Schema
+
+Pa)
+Mi indiamart Deepika Verma <deepika@indiamart.com>
+
+[MPLaunch@IM] Experience The Fastest and Most Optimized Graph Search 3.0
+
+3 messages
+
+Ashutosh Singh <ashutosh.singh@indiamart.com> Thu, Apr 7, 2022 at 10:25 AM
+To: Marketplace Launch <marketplacelaunch@indiamart.com>, Dinesh Agarwal <da@indiamart.com>, Amarinder S Dhaliwal
+<amarinder@indiamart.com>
+
+Cc: Vikram Varshney <vikram.varshney@indiamart.com>, Abhishek Bhartia <abhishek@indiamart.com>, Samarendra Pratap
+<samarendra.pratap@indiamart.com>, Ayush Gupta <ayush.gupta@indiamart.com>, Neha Singh <neha.singh2@indiamart.com>, Rohan Verma
+<verma.rohan@indiamart.com>, Ravi Kumar <kumar.ravis@indiamart.com>, Himanshu Jain <himanshu.jain2@indiamart.com>, Paras Lehana
+<paras.lehana@indiamart.com>, Akshansh Narula <akshansh.narula@indiamart.com>, cat_internal <cat_internal@indiamart.com>
+
+Hi All,
+We are pleased to inform you that Graph Search 3.0 has been made live for MCAT Prediction.
+
+In this major update, Graph Search 3.0 has been optimized with a new schema architecture that promises a blazing fast speed, scale, and
+performance.
+
+What has been Done?
+
+We have refactored the Current Graph Schema by separating the Keyword property from the Product Node and revamped the queries
+for traversing the Graph Model and Index.
+PFB the previous and new schema of the Graph Search Model
+
+Previous Schema
+
+HAS PRODUCT
+
+New Schema
+
+Pa)
+Mi indiamart Deepika Verma <deepika@indiamart.com>
+
+[MPLaunch@IM] Experience The Fastest and Most Optimized Graph Search 3.0
+
+3 messages
+
+Ashutosh Singh <ashutosh.singh@indiamart.com> Thu, Apr 7, 2022 at 10:25 AM
+To: Marketplace Launch <marketplacelaunch@indiamart.com>, Dinesh Agarwal <da@indiamart.com>, Amarinder S Dhaliwal
+<amarinder@indiamart.com>
+
+Cc: Vikram Varshney <vikram.varshney@indiamart.com>, Abhishek Bhartia <abhishek@indiamart.com>, Samarendra Pratap
+<samarendra.pratap@indiamart.com>, Ayush Gupta <ayush.gupta@indiamart.com>, Neha Singh <neha.singh2@indiamart.com>, Rohan Verma
+<verma.rohan@indiamart.com>, Ravi Kumar <kumar.ravis@indiamart.com>, Himanshu Jain <himanshu.jain2@indiamart.com>, Paras Lehana
+<paras.lehana@indiamart.com>, Akshansh Narula <akshansh.narula@indiamart.com>, cat_internal <cat_internal@indiamart.com>
+
+Hi All,
+We are pleased to inform you that Graph Search 3.0 has been made live for MCAT Prediction.
+
+In this major update, Graph Search 3.0 has been optimized with a new schema architecture that promises a blazing fast speed, scale, and
+performance.
+
+What has been Done?
+
+We have refactored the Current Graph Schema by separating the Keyword property from the Product Node and revamped the queries
+for traversing the Graph Model and Index.
+PFB the previous and new schema of the Graph Search Model
+
+Previous Schema
+
+HAS PRODUCT
+
+New Schema
+
+Key Areas of Impact
+1. Reduction in A verage Response T ime
+2. Optimization in Graph Index size and traversal logic
+The Graph FTS Index size has been reduced from 10.7 cr to 3.5 cr without any impact on the training dataset.
+Better Graph traversal leads to achieving better results at a faster speed.
+3. Ability to handle additional training data and more user requests
+The graph is now capable of handling additional training data from multiple sources like ISQs, BL, Site Search, etc. without any impact on
+load and response time which will help to achieve the future roadmaps for Graph Search.
+HAS PC_ID
+
+Key Areas of Impact
+
+1. Reduction in Average Response Time
+
+Response Time Trend
+
+180 160 70
+149 153
+160 50
+140
+120 50
+100
+40
+80
+60 36 35 30
+40 50
+20 25
+0 10
+
+Oct-21 Nov-21 Dec-21 Jan-22 Feb-22 Mar-22 Current
+
+em Average Response Time - Non Cache Requests (in ms)
+
+a= Average Response Time - All Requests (in ms)
+
+2. Optimization in Graph Index size and traversal logic
+
+e The Graph FTS Index size has been reduced from 10.7 cr to 3.5 cr without any impact on the training dataset.
+e Better Graph traversal leads to achieving better results at a faster speed.
+
+3. Ability to handle additional training data and more user requests
+
+e The graph is now capable of handling additional training data from multiple sources like ISQs, BL, Site Search, etc. without any impact on
+load and response time which will help to achieve the future roadmaps for Graph Search.
+
+HAS PC_ID
+
+Key Areas of Impact
+
+1. Reduction in Average Response Time
+
+Response Time Trend
+
+180 160 70
+149 153
+160 50
+140
+120 50
+100
+40
+80
+60 36 35 30
+40 50
+20 25
+0 10
+
+Oct-21 Nov-21 Dec-21 Jan-22 Feb-22 Mar-22 Current
+
+em Average Response Time - Non Cache Requests (in ms)
+
+a= Average Response Time - All Requests (in ms)
+
+2. Optimization in Graph Index size and traversal logic
+
+e The Graph FTS Index size has been reduced from 10.7 cr to 3.5 cr without any impact on the training dataset.
+e Better Graph traversal leads to achieving better results at a faster speed.
+
+3. Ability to handle additional training data and more user requests
+
+e The graph is now capable of handling additional training data from multiple sources like ISQs, BL, Site Search, etc. without any impact on
+load and response time which will help to achieve the future roadmaps for Graph Search.
+
+Performance and MCA T Prediction Accuracy
+Graph 3.0 also promises an improved accuracy .
+Comparison of unique 1 1577 records as Audited by two Auditors
+Parameters Graph Search 2.0 Graph Search 3.0 Change
+Total Keywords 11577 11577 0.00%
+Accuracy (wrt 2 Auditors) 88.96% 89.57% 0.68%
+Comparison of 1st Predicted MCA T wrt manual product approval
+Parameters Graph Search 2.0 Graph Search 3.0 Change
+Total Keywords 44196 44194 0.00%
+Selected MCAT = 1st MCAT 24925 25443 2.04%
+% Selection in Manual
+Approval 56.40% 57.57% 2.04%
+Link to access the Audit Dataset
+Link to access Kibana Dashboard  
+Note - We have made the aforementioned changes live at 4:16 PM 6th April'2022
+Token of Appreciation
+Special Thanks to @Rohan V erma  , @Ravi Kumar  for their help in the optimization of Graph Schema and making the API Live.
+@Neha Singh   @Shubhi Jain  , @Dhiraj Bhangale  , @Satwik Mani T ripathi  for extensive Audit of the model results.
+@Vikram V arshney , @Ayush Gupta  for their continuous guidance and support.
+Vikram V arshney <vikram.varshney@indiamart.com> Thu, Apr 7, 2022 at 1 1:13 AM
+To: Ashutosh Singh <ashutosh.singh@indiamart.com>, Alok Kumar Shukla <shukla.alok@indiamart.com>
+Cc: Marketplace Launch <marketplacelaunch@indiamart.com>, Dinesh Agarwal <da@indiamart.com>, Amarinder S Dhaliwal
+<amarinder@indiamart.com>, Abhishek Bhartia <abhishek@indiamart.com>, Samarendra Pratap <samarendra.pratap@indiamart.com>, A yush
+Gupta <ayush.gupta@indiamart.com>, Neha Singh <neha.singh2@indiamart.com>, Rohan V erma <verma.rohan@indiamart.com>, Ravi Kumar
+<kumar .ravi5@indiamart.com>, Himanshu Jain <himanshu.jain2@indiamart.com>, Paras Lehana <paras.lehana@indiamart.com>, Akshansh Narula
+<akshansh.narula@indiamart.com>, cat_internal <cat_internal@indiamart.com>
+Very very good work on performance !! 
+++ +Alok Kumar Shukla  - training paid of f :) .. W e should organize the second batch.  
+[Quoted text hidden]
+--  
+Vikram V arshney
+9810700307 
+ext - 1106
+Vikram V arshney <vikram.varshney@indiamart.com> Thu, Apr 7, 2022 at 1 1:48 AM
+To: Ashutosh Singh <ashutosh.singh@indiamart.com>, Alok Kumar Shukla <shukla.alok@indiamart.com>, Alok Kumar Mubai
+<alok.mubai@indiamart.com>
+Cc: Marketplace Launch <marketplacelaunch@indiamart.com>, Dinesh Agarwal <da@indiamart.com>, Amarinder S Dhaliwal
+<amarinder@indiamart.com>, Abhishek Bhartia <abhishek@indiamart.com>, Samarendra Pratap <samarendra.pratap@indiamart.com>, A yush
+Gupta <ayush.gupta@indiamart.com>, Neha Singh <neha.singh2@indiamart.com>, Rohan V erma <verma.rohan@indiamart.com>, Ravi Kumar
+<kumar .ravi5@indiamart.com>, Himanshu Jain <himanshu.jain2@indiamart.com>, Paras Lehana <paras.lehana@indiamart.com>, Akshansh Narula
+<akshansh.narula@indiamart.com>, cat_internal <cat_internal@indiamart.com>
+Sorry for typo .. .
+Number of Requests Served by Graph Search (in Cr)
+
+10
+
+_—
+
+N
+
+7.52
+5.11
+3.53 3.62
+3:23
+5 a | i ;
+
+Oct-21 Nov-21 Dec-21 Jan-22 Feb-22 Mar-22 Current
+
+o
+
+@ Oct-21 MNov-21 ™Dec-21 M®Jan-22 M@Feb-22 mMar-22 mCurrent
+
+Performance and MCAT Prediction Accuracy
+Graph 3.0 also promises an improved accuracy.
+
+Comparison of unique 11577 records as Audited by two Auditors
+
+Total Keywords
+
+Accuracy (wrt 2 Auditors) 88.96% 89.57% 0. 68%
+
+Comparison of 1st Predicted MCAT wrt manual product approval
+
+Total Keywords
+
+Selected MCAT = 1st MCAT | 2ag25 25443 2. 04%
+
+% Selection in Manual
+Approval 56.40% 57.57% 2.04%
+
+Link to access the Audit Dataset
+Link to access Kibana Dashboard
+
+Note - We have made the aforementioned changes live at 4:16 PM 6th April'2022
+Token of Appreciation
+
+Special Thanks to @Rohan Verma , @Ravi Kumar for their help in the optimization of Graph Schema and making the API Live.
+@Neha Singh @Shubhi Jain , @Dhiraj Bhangale , @Satwik Mani Tripathi for extensive Audit of the model results.
+@Vikram Varshney, @Ayush Gupta for their continuous guidance and support.
+
+Vikram Varshney <vikram.varshney@indiamart.com> Thu, Apr 7, 2022 at 11:13 AM
+To: Ashutosh Singh <ashutosh.singh@indiamart.com>, Alok Kumar Shukla <shukla.alok@indiamart.com>
+
+Cc: Marketplace Launch <marketplacelaunch@indiamart.com>, Dinesh Agarwal <da@indiamart.com>, Amarinder S Dhaliwal
+<amarinder@indiamart.com>, Abhishek Bhartia <abhishek@indiamart.com>, Samarendra Pratap <samarendra.pratap@indiamart.com>, Ayush
+Gupta <ayush.gupta@indiamart.com>, Neha Singh <neha.singh2@indiamart.com>, Rohan Verma <verma.rohan@indiamart.com>, Ravi Kumar
+<kumar.ravis@indiamart.com>, Himanshu Jain <himanshu.jain2@indiamart.com>, Paras Lehana <paras.lehana@indiamart.com>, Akshansh Narula
+<akshansh.narula@indiamart.com>, cat_internal <cat_internal@indiamart.com>
+
+Very very good work on performance !!
+
+++ +Alok Kumar Shukla - training paid off :) .. We should organize the second batch.
+[Quoted text hidden]
+
+Vikram Varshney
+
+9810700307
+
+ext - 1106
+
+Vikram Varshney <vikram.varshney@indiamart.com> Thu, Apr 7, 2022 at 11:48 AM
+To: Ashutosh Singh <ashutosh.singh@indiamart.com>, Alok Kumar Shukla <shukla.alok@indiamart.com>, Alok Kumar Mubai
+<alok.mubai@indiamart.com>
+
+Cc: Marketplace Launch <marketplacelaunch@indiamart.com>, Dinesh Agarwal <da@indiamart.com>, Amarinder S Dhaliwal
+<amarinder@indiamart.com>, Abhishek Bhartia <abhishek@indiamart.com>, Samarendra Pratap <samarendra.pratap@indiamart.com>, Ayush
+Gupta <ayush.gupta@indiamart.com>, Neha Singh <neha.singh2@indiamart.com>, Rohan Verma <verma.rohan@indiamart.com>, Ravi Kumar
+<kumar.ravis@indiamart.com>, Himanshu Jain <himanshu.jain2@indiamart.com>, Paras Lehana <paras.lehana@indiamart.com>, Akshansh Narula
+<akshansh.narula@indiamart.com>, cat_internal <cat_internal@indiamart.com>
+
+Sorry for typo .. .

@@ -1,0 +1,20 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY index_builder_1.py .
+COPY script.py .
+
+RUN mkdir -p /app/docs /app/storage
+
+VOLUME /app/docs
+VOLUME /app/storage
+
+ENTRYPOINT ["python", "index_builder_1.py"]

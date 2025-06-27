@@ -1,0 +1,246 @@
+PNS Mid Year AOP: FY 2022-2023
+PNS Attempted Calls- Target v/s Achieved
+Note: Multiple external factors (change in Google SEO Algo, Returning of 2.2 Knowlarity numbers, Airtel Server crashed) are responsible for dip in Jun’22
+All fig in Lacs
+Target v/s Actual PNS Attempts
+
+81.64
+79.13 80.11 79.75 80.37 81.00
+
+ee et 76.27
+
+75.65 75.35 765)
+
+68.97
+
+66.82
+
+May'22 — Jun'22 Jul'22 Aug'22 Sep'22 Oct'22 Nov'22 Dec'22 Mar'23
+
+—@— Actual PNS Calls 9===®= AOP Targets
+
+Traffic to Attempted Call Ratio
+
+9.10%
+
+May'22 Jun'22 Jul'22 ‘Aug'22 Sep'22 Oct'22
+
+Increase PNS call clicks: Dynamic PNS
+Expected Impact: ~2.8 Lacs per month non-PNS call clicks
+Increase PNS Attempts
+81.34
+
+77.66 |
+74.96 75.65 75.35 76° _ a a
+68.97 4
+6.82
+Fata wv Ra Raha Raha Raia Rata ww P
+wo ye yt ey se of a ee . a
+
+—@— Actual PNS Call =@> Expected PNS Call
+
+All fig in Lacs
+Expected numbers are based on Mar’22 session
+Increase PNS Attempts
+PNS Call Enquiry	1.3L/Month
+Fix leakages in LEAP oncall connect process
+All fig in Lacs
+PNS Call from LEAP Insta Connect (in Lacs)
+
+Jun'22 Jul'22 Aug'22 Sep'22
+
+Total Call Attempted mm Opportunity
+
+Increase PNS Attempts: 
+Insta connect on TTS approved leads
+Initiate instant PNS call upon buyer acknowledgment on TTS approved leads
+4.63
+
+3.34 3.45 3.47 3.43
+
+2.70
+
+May'22— Jun'22 Jul'22 Aug'22 Sep'22 Oct'22 Nov'22 Dec'22 Mar'23
+
+== Directly Forward Calls —=@» —ProjectedDirectly Forward Calls
+
+Enhance Buyer Experience
+Direct forward Calls	93K/Month
+All fig in Lacs
+PNS Call flow logic
+Reduce call drop before pre-call API trigger
+Old Extension call flow
+Proposed Extension call flow
+Increased applicable  Calls (Reverse Lookup logic upfront)
+Reduction in call drops (buyer-Supplier/Call centre connect earlier)
+De
+
+3 digit PIN not entered
+
+Indiamart Reverse Lookup Applied in 6s
+
+<
+
+IVR Prompt : Enter 3
+digit PIN
+
+onnect to supplier/Call
+Centre
+
+3 digit PIN Not entered by buyer
+
+IVR Prompts: Enter 3 digit
+PIN
+
+| sectors
+
+Indiamart Reverse Lookup Applied in 24 s
+
+Connect to Supplier/Call,
+centre
+
+
+Reduce call drop before pre-call API trigger
+PNS Applicable Calls - 30K/Month
+Extension PNS KPIs
+
+70
+67
+23
+a
+
+Call Drop(%) PNS Attempt/Applicable (9)
+
+@ Existing Call Flow ® New Call Flow
+
+Optimisation of Extension call flow
+Early detection of Non-SPAM caller
+Real-Time Unblocking Genuine Buyers in 5 mins
+Expected Impact
+Buyer trapped in Temporary Blocked Logic
+Actual Spammer (SPAM)
+Permanent Blocked
+Genuine Buyer (Non-SPAM)
+Unblocked
+Manual Audit of Call Recordings
+PNS Applicable Calls - 20K
+Monthly Increment
+Within 15 mins
+Within 5 mins
+Monthly Increment
+38%
+
+% Calls Dropped
+
+Existing Flow (Within 15 mins) mi New Flow (Within 5 mins)
+
+
+Improving Extension Capture(%)
+Caller enters incomplete PNS Extension Number
+Primary number check between PNS Caller Glid & 
+C2C Click Glid
+Identify Supplier PNS Number(based on caller-supplier activity on IM)
+Extension Reverse Lookup Logic
+Successful buyer-supplier connect
+Primary & secondary number check between PNS Caller Glid and C2C Click Glid
+Current(Within 5 mins)
+Additional Proposed Logic(Within 5 mins)
+Improving Extension Capture(%)
+PNS Applicable Calls - 10K/Month
+PNS Extension Capture(%)
+
+93.5%
+
+92.3%
+° 92.1%
+
+91.9%
+
+Aug'22 Sep'22 Oct'22 Mar'23
+
+Expected Impact
+Increase PNS Applicable to Success Ratio
+OBJECTIVE: Increase Success% from 65% to 68%
+Increase PNS Applicable to Success Ratio
+OBJECTIVE: Increase Success% from 65% to 68%
+Thankyou
+
+indiamart
+
+Monthly PNS Attempted Calls
+Note: Multiple external factors (change in Google SEO Algo, Returning of 2.2 Knowlarity numbers, Airtel Server crashed) are responsible for dip in Jun’22
+in Mn
+
+90.00
+
+85.00
+
+Sessions
+
+80.00
+
+75.00
+
+es
+
+<
+
+a
+
+oe
+
+o
+
+we
+
+wy
+3
+
+lm Total Session
+
+w
+
+a a
+
+wo
+A ys ys
+
+——=Total Attempted Calls
+
+wo
+we
+
+oe
+
+sh
+
+8.30
+
+7.70
+
+7.10
+
+6.50
+
+PNS Calls
+
+Optimising PNS Extension Call Flow
+PNS Applicable Calls - 30K/Month
+
+PNS Dropped Calls - 40K/Month
+Extension PNS KPIs
+
+70
+67
+23
+a
+
+Call Drop(%) PNS Attempt/Applicable (9)
+
+@ Existing Call Flow ® New Call Flow
+
+Improve PNS Attempt to Applicable Call Ratio
+OBJECTIVE: To increase Attempt to Applicable Call Ratio from 87% to 90%
+Primary-secondary/Alternate number matchmaking
+Sibling-Parent Logic matchmaking
+Improving Extension Capture(%)

@@ -1,0 +1,254 @@
+Uyindiamart
+
+Caching on IndiaMART
+Shranik Jain & Mahendra Prasad
+7/05/2019
+7
+Overview
+What & Why caching?
+Types of Caching
+Caching Implementation on IndiaMART
+Challenges & Solutions
+Architecture & Condition’s on Dir.IM &  WWW
+Impact of Caching	
+Roadmap Ahead
+7
+What is Caching?
+What did you have for breakfast?
+00
+
+7
+Caching Overview
+7
+Why Caching?
+Big wins from low-hanging fruit
+With great scale comes great responsibility
+Decreased Crawl Time
+Less Server Errors
+Happy Database
+7
+Types of Caching
+Client-Side Cache
+Forward Proxy Cache
+Reverse Proxy Cache
+Server Cache
+7
+Caching on IndiaMART
+Dir.IM
+Product-Detail
+
+FCP
+iil
+
+Mobile Site
+Varnish Cache
+7
+Challenges & Solutions
+There are only two hard things in Computer Science: cache invalidation and naming things.
+                                                                                                                                         -- Phil Karlton
+Product Detail
+Dir.IM
+FCP
+200 OK
+7
+Challenges & Solutions
+Varnish non cacheable page at M-site
+
+method: POST, (all pass)
+user-agent : opera all, ucweb all pass
+
+req.url (all pass): /bU/, /enq/, /products/, /messages/ ,/seller/, /sbl, /payx/,
+/invoiceGen/, /bigbuyer/, /buyer/managebl/, /feedbackthankyou/ , /home/
+/phpajax/identified/, /service-worker.js, |/payment-protection/, /postbuy.php
+/enquiry.php,  /ajaxrequest/identified/, | /managebl/suppliers/, | /my/, /sent/
+/checkuser/, —/impcat-autofetch/, /isearch.php, /getStaticQues/,
+/getStaticQuesNoResponse/, —/iploc/, /aboutus.php, _ /contactus.php.
+/privacy-policy.html, /engBl/  ,/payacknowledgementdetails/,  /app.php
+
+7
+Architecture & Condition’s 
+on Dir.IM & Mobile-IM
+iil
+
+iil
+
+User
+Varnish
+Server
+1 hr.
+1hr. -72hrs.
+>72 hrs
+iit:
+
+7
+Architecture & Condition’s
+On Home-Server
+iil
+
+iil
+
+User
+Varnish
+Server
+24hrs.
+24hr. -1month
+>1 month
+iit:
+
+7
+Challenges & Solutions
+iil
+
+iil
+
+Varnish
+Server
+User
+Dynamic Data
+7
+Challenges & Solutions
+iil
+
+iil
+
+iil
+
+User
+5XX
+3 Days old Cache(User Region)
+Cache with any age(User Region)
+Cache with any age(any Region)
+5xx
+5xx Handling
+7
+Impact of Varnish Cache
+sess
+te
+ae
+
+“Tne spent dowmionsing a page (nmitiseconds)
+
+
+57% Decrease in Crawl Time
+14% Increase in Pages Crawled
+425ms Normal Req. Response Time
+1ms Cached Req. Response Time
+7
+DIR Varnish Setup
+We
+
+SS Ge G6 ge
+
+Users
+Global Load Balancer
+Varnish India Server
+Varnish US-Central Server
+DIR-Instance-US Central
+Search
+IMPCAT
+   API
+US-Central
+2 Server for IMPCAT & 2 for Search
+Mobile Varnish Setup
+Users
+DNS
+We
+
+wae
+“sr amazon
+» webs
+
+Q services”
+
+Varnish Server 
+(India)
+Varnish Server 
+(US)
+Global Load Balancers
+Country-Europe Only
+Varnish AWS
+     (US)
+Elastic Load Balancer
+6 GCP Mobile Instances in US Central
+6 AWS Mobile Instances in Virginia
+7
+How to Test Varnish?
+Step 1 : Download “Header-Editor” Chrome Extension
+
+Step 2 : Make Following Entry  in “Request Field”
+@ Header-Editor
+
+Offered by: 677262
+
+kek KH 13 | Developer Tools | & 6,347 users
+
+Request
+
+Description Header Value Active
+
+Varnish EDGE YES 4
+
+
+Step 3: Add “edge-cache” request header in Google Chrome Developer Console, Always open 
+New tab to test the varnish
+[R GJ] | Elements Console Sources. Network Performance + Memory Application Security Audits EditThisCookie  Adblock Plus 25 a7
+
+© MT Q | vw = Ol Group by frame |) Preserve log ) Disable cache |) Offline No throtting
+
+Fitter Gi Hide data URLs (| xHR JS CSS Img Media Font Doc WS Manifest Other \
+
+Name Status _ Protocol Type Initiator Size Time Priority Cache-Contral_ Expires Age edge-cache Waterfall
+
+[| ads?elient=ca-pub-0673059417.... 307 http/.1 0B 11.0.. Highest
+
+[1] pp-box-strapping-planthtml Z= 200 h2 document Other 32.7 KB 845... Highest 0 Sivas =
+dick cache) | 73 ms| Hech max-age=3153... Fri. 1247,
+
+F] jquery.is 200 h2- script.
+
+7
+How to Test Varnish?
+25,226 hits New Save Open Share € @LastiSminutes >
+
+=
+dir_front_access_log* bal June 28th 2019, 14:46:16.134 - June 28th 2019, 15:01:16.135— Auto ,
+
+Selected Fields
+
+1.000
+CACHE STATUS,
+© path
+
+avaiable Flos ° °
+
+count
+
+Pee uinentnpr so sean
+
+°
+ow — pats NY ccestaus
+Email > dune 000 /search.np?ssaconpressedtnattresstprdsreat miss”
+
+> dune (fect /water-di spencers. htm]
+
+> dune (Uryderabad/coconst-chocolate- hts
+
+> dune /aranasi /hp-laptop. hin)
+
+> dune
+
+HOST
+agen:
+
++ cose
+veferee
+inpeat/preunatic~tube. hes]
+
+
+7
+Roadmap Ahead
+Disaster Recovery in case of GCP downtime on Desktop
+Varnish Cache Creation for multilingual pages
+Uyindiamart
+
+Thank you

@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/docs:/app/docs
+      - ./backend/storage:/app/storage
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "3000:3000"  # React dev server port
+    environment:
+      - CHOKIDAR_USEPOLLING=true  # Better file watching in Docker
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+
+  index_builder:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.index_builder
+    volumes:
+      - ./backend/docs:/app/docs
+      - ./backend/storage:/app/storage
+
+volumes:
+  ollama_data:

@@ -1,0 +1,335 @@
+Deepika V erma <deepika@indiamart.com>
+[MPLaunch@IM] M-Site Messages Login Screen UX Improvements  
+4 messages
+Krishnapriya <krishnapriya@indiamart.com> Wed, Apr 6, 2022 at 9:45 PM
+To: marketplacelaunch@indiamart.com
+Cc: Sandeep Garg <sandeep.garg@indiamart.com>, Anuj Y adav <yadav .anuj2@indiamart.com>, Devendra Pandey <pandey .devendra@indiamart.com>, Sagar Kaul
+<kaul.sagar@indiamart.com>, Akshay Budhiraja <akshay .budhiraja@indiamart.com>
+Hi All,
+We are pleased to inform you that we have updated the UX of the Login  Screen  in the M-Site Messages . 
+Business Objective:  
+The current Login  UX for identified and unidentified users in M-Site Messages  is not ef fective and has a success rate of just 30%. The objective of this launch is to streamline
+and improve the UX of the login  journey . 
+What has been done:  
+The following changes have been performed:  
+1. Implementing autofocus on the input field when the user lands on the unidentifed messages  login  screen. The keypad enter key triggers the OTP and takes the user to the
+Enter OTP  screen . The numeric keypad is displayed when the user login s through a phone number , whereas the email login  attempt displays the normal phone keypad to the
+user.  
+2. Triggering OTP when the user logins from the sources such as Email or SMS, instead of showing the current truecaller API error "Could not fetch through truecaller , please
+try login  by entering password or OTP". 
+3. Displaying numeric keypad with autofocus on the OTP input field on the Enter OTP  screen  and validating the OTP  as soon as the user enters 4 digit OTP value.
+4. Displaying normal phone keypad with autofocus on password input field when the user attempt to login  via password and validating the password with enter key selection on
+user's mobile keypad
+5. Increased font-size of the Submit OTP button to 16 px and reduced font-size of the Sign in with password button size to 14 px on the Enter OTP  screen .
+Note:  If the user tries to log in by clicking the Sign In with OTP Button, the autofocus is not working. The ticket ( 383717 ) is already opened for the same. W e will be fixing it in the
+next release.  
+Screenshots:
+
+e@
+Mi) indiamart Deepika Verma <deepika@indiamart.com>
+
+[MPLaunch@IM] M-Site Messages Login Screen UX Improvements
+
+4 messages
+
+Krishnapriya <krishnapriya@indiamart.com> Wed, Apr 6, 2022 at 9:45 PM
+To: marketplacelaunch@indiamart.com
+
+Cc: Sandeep Garg <sandeep.garg@indiamart.com>, Anuj Yadav <yadav.anuj2@indiamart.com>, Devendra Pandey <pandey.devendra@indiamart.com>, Sagar Kaul
+<kaul.sagar@indiamart.com>, Akshay Budhiraja <akshay.budhiraja@indiamart.com>
+
+Hi All,
+We are pleased to inform you that we have updated the UX of the Login Screen in the M-Site Messages.
+Business Objective:
+
+The current Login UX for identified and unidentified users in M-Site Messages is not effective and has a success rate of just 30%. The objective of this launch is to streamline
+and improve the UX of the login journey.
+
+What has been done:
+The following changes have been performed:
+
+1. Implementing autofocus on the input field when the user lands on the unidentifed messages login screen. The keypad enter key triggers the OTP and takes the user to the
+Enter OTP screen. The numeric keypad is displayed when the user logins through a phone number, whereas the email login attempt displays the normal phone keypad to the
+user.
+
+2. Triggering OTP when the user logins from the sources such as Email or SMS, instead of showing the current truecaller API error "Could not fetch through truecaller, please
+try login by entering password or OTP".
+
+3. Displaying numeric keypad with autofocus on the OTP input field on the Enter OTP screen and validating the OTP as soon as the user enters 4 digit OTP value.
+
+4. Displaying normal phone keypad with autofocus on password input field when the user attempt to login via password and validating the password with enter key selection on
+user's mobile keypad
+
+5. Increased font-size of the Submit OTP button to 16 px and reduced font-size of the Sign in with password button size to 14 px on the Enter OTP screen.
+
+Note: /f the user tries to log in by clicking the Sign In with OTP Button, the autofocus is not working. The ticket (383717) is already opened for the same. We will be fixing it in the
+next release.
+
+Screenshots:
+
+Login With Password
+
+2:50 PM &4 & (3) --
+
+Login With Email
+
+3:38PM M&M --
+
+Q = @ miindiamart.com/m:
+Q = @ miindiamart.com/m
+
+— |
+
+Welcome to Messages
+
+You can always check your sent and received
+
+messages from supplier here
+Login with Google
+
+OR zy }+91 |
+
+Welcome to Messages
+
+You can always check your sent and received
+messages from supplier here
+
+Request OTP
+
+iv agree to terms and privacy policy
+
+Request OTP
+
+g h
+
+Cc vb nm @
+
+27123. com @ « English (India) >»
+
+
+e@
+Mi) indiamart Deepika Verma <deepika@indiamart.com>
+
+[MPLaunch@IM] M-Site Messages Login Screen UX Improvements
+
+4 messages
+
+Krishnapriya <krishnapriya@indiamart.com> Wed, Apr 6, 2022 at 9:45 PM
+To: marketplacelaunch@indiamart.com
+
+Cc: Sandeep Garg <sandeep.garg@indiamart.com>, Anuj Yadav <yadav.anuj2@indiamart.com>, Devendra Pandey <pandey.devendra@indiamart.com>, Sagar Kaul
+<kaul.sagar@indiamart.com>, Akshay Budhiraja <akshay.budhiraja@indiamart.com>
+
+Hi All,
+We are pleased to inform you that we have updated the UX of the Login Screen in the M-Site Messages.
+Business Objective:
+
+The current Login UX for identified and unidentified users in M-Site Messages is not effective and has a success rate of just 30%. The objective of this launch is to streamline
+and improve the UX of the login journey.
+
+What has been done:
+The following changes have been performed:
+
+1. Implementing autofocus on the input field when the user lands on the unidentifed messages login screen. The keypad enter key triggers the OTP and takes the user to the
+Enter OTP screen. The numeric keypad is displayed when the user logins through a phone number, whereas the email login attempt displays the normal phone keypad to the
+user.
+
+2. Triggering OTP when the user logins from the sources such as Email or SMS, instead of showing the current truecaller API error "Could not fetch through truecaller, please
+try login by entering password or OTP".
+
+3. Displaying numeric keypad with autofocus on the OTP input field on the Enter OTP screen and validating the OTP as soon as the user enters 4 digit OTP value.
+
+4. Displaying normal phone keypad with autofocus on password input field when the user attempt to login via password and validating the password with enter key selection on
+user's mobile keypad
+
+5. Increased font-size of the Submit OTP button to 16 px and reduced font-size of the Sign in with password button size to 14 px on the Enter OTP screen.
+
+Note: /f the user tries to log in by clicking the Sign In with OTP Button, the autofocus is not working. The ticket (383717) is already opened for the same. We will be fixing it in the
+next release.
+
+Screenshots:
+
+Login With Password
+
+2:50 PM &4 & (3) --
+
+Login With Email
+
+3:38PM M&M --
+
+Q = @ miindiamart.com/m:
+Q = @ miindiamart.com/m
+
+— |
+
+Welcome to Messages
+
+You can always check your sent and received
+
+messages from supplier here
+Login with Google
+
+OR zy }+91 |
+
+Welcome to Messages
+
+You can always check your sent and received
+messages from supplier here
+
+Request OTP
+
+iv agree to terms and privacy policy
+
+Request OTP
+
+g h
+
+Cc vb nm @
+
+27123. com @ « English (India) >»
+
+
+What to test:  
+The functionality must be working as explained above and UI must be as shown
+No other functionality or UI must get af fected due to this launch
+Special Thanks  to @Sandeep Garg , @Anuj Y adav  for continuous guidance and support for the project and @Sagar Kaul  / @Devendra Pandey  for the planning and execution
+of this task.  
+QA team is requested to test the functionality and provide valuable feedback.
+Open Project ID:  
+382568
+Thanks and Regards,
+Krishnapriya
+Assistant Product Manager
+M-Site Messages 
+Dinesh Agarwal - IndiaMART <da@indiamart.com> Thu, Apr 7, 2022 at 2:51 AM
+To: Krishnapriya <krishnapriya@indiamart.com>
+Cc: Akshay Budhiraja <akshay .budhiraja@indiamart.com>, Anuj Y adav <yadav .anuj2@indiamart.com>, Devendra Pandey <pandey .devendra@indiamart.com>, Sagar Kaul
+<kaul.sagar@indiamart.com>, Sandeep Garg <sandeep.garg@indiamart.com>, marketplacelaunch@indiamart.com
+Just an idea, discard d if already tried 
+In case of identified user 
+If that user has a verified Gmail Id. 
+If Gmail is logged in browser . 
+Would login by google be better even for those Indian users.
+ 
+We had tried ture caller as well? 
+One tap login if T rucaller was present 
+There was another one that was working on carrier based without otp identified verification.. 
+[Quoted text hidden]
+--  
+================
+www.indiamart.com  
+============
+Anuj Y adav <yadav .anuj2@indiamart.com> Thu, Apr 7, 2022 at 10:26 AM
+To: Dinesh Agarwal - IndiaMAR T <da@indiamart.com>, IM Mobile-Site T eam <mobile-team@indiamart.com>, lmshelp IM <lmshelp@indiamart.com>
+Cc: Krishnapriya <krishnapriya@indiamart.com>, Akshay Budhiraja <akshay .budhiraja@indiamart.com>, Devendra Pandey <pandey .devendra@indiamart.com>, Sagar Kaul
+<kaul.sagar@indiamart.com>, Sandeep Garg <sandeep.garg@indiamart.com>, Marketplace Launch <marketplacelaunch@indiamart.com>
+Hi DA,
+If that user has a verified Gmail Id. 
+If Gmail is logged in browser . 
+Would login by google be better even for those Indian users.
+Acknowledged DA. W e will work on this.
+ 
+We had tried ture caller as well? 
+One tap login if T rucaller was present 
+This is present at M-Site Message Login. W e are working to make it more upfront for SMS/Email logins since an external click is either way needed to trigger T rueCaller in these
+journeys.
+Password Screen
+
+2:51PM &@ & By --
+
+Q = @ miindiamart.com/m
+
+Hi Krishnapriya
+
+Enter your password *
+
+Forgot Password?
+
+| Sign in with OTP
+
+23 45 6 7 8 9 0
+
+OTP Screen
+
+4:24PM BO -::-
+
+Q = @ miindiamart.com/mes:
+
+Hi, User
+
+Enter the 4 digit One Time Password (OTP) sent to your Mobile
+Number (+91-9645051053) via SMS
+
+Detecting OTP. Oo
+
+Submit OTP
+
+What to test:
+
+¢ The functionality must be working as explained above and UI must be as shown
+¢ No other functionality or Ul must get affected due to this launch
+
+Special Thanks to @Sandeep Garg, @Anuj Yadav for continuous guidance and support for the project and @Sagar Kaul / @Devendra Pandey for the planning and execution
+
+of this task.
+
+QA team is requested to test the functionality and provide valuable feedback.
+
+Open Project ID:
+382568
+
+Thanks and Regards,
+Krishnapriya
+
+Assistant Product Manager
+M-Site Messages
+
+Dinesh Agarwal - IndiaMART <da@indiamart.com>
+To: Krishnapriya <krishnapriya@indiamart.com>
+
+Thu, Apr 7, 2022 at 2:51 AM
+
+Cc: Akshay Budhiraja <akshay.budhiraja@indiamart.com>, Anuj Yadav <yadav.anuj2@indiamart.com>, Devendra Pandey <pandey.devendra@indiamart.com>, Sagar Kaul
+
+<kaul.sagar@indiamart.com>, Sandeep Garg <sandeep.garg@indiamart.com>, marketplacelaunch@indiamart.com
+
+Just an idea, discard d if already tried
+In case of identified user
+
+If that user has a verified Gmail Id.
+If Gmail is logged in browser.
+
+Would login by google be better even for those Indian users.
+
+We had tried ture caller as well?
+One tap login if Trucaller was present
+
+There was another one that was working on carrier based without otp identified verification..
+
+[Quoted text hidden]
+
+Anuj Yadav <yadav.anuj2@indiamart.com>
+
+To: Dinesh Agarwal - IndiaMART <da@indiamart.com>, IM Mobile-Site Team <mobile-team@indiamart.com>, Imshelp IM <Imshelp@indiamart.com>
+
+Thu, Apr 7, 2022 at 10:26 AM
+
+Cc: Krishnapriya <krishnapriya@indiamart.com>, Akshay Budhiraja <akshay.budhiraja@indiamart.com>, Devendra Pandey <pandey.devendra@indiamart.com>, Sagar Kaul
+
+<kaul.sagar@indiamart.com>, Sandeep Garg <sandeep.garg@indiamart.com>, Marketplace Launch <marketplacelaunch@indiamart.com>
+
+Hi DA,
+
+If that user has a verified Gmail Id.
+If Gmail is logged in browser.
+
+Would login by google be better even for those Indian users.
+
+Acknowledged DA. We will work on this.
+
+We had tried ture caller as well?
+One tap login if Trucaller was present
+
+This is present at M-Site Message Login. We are working to make it more upfront for SMS/Email logins since an external click is either way needed to trigger TrueCaller in these
+
+journeys.

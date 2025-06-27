@@ -1,0 +1,55 @@
+Uyindiamart
+
+“Simplifying Business Communications”
+XMPP Tech: Messaging & Presence Protocol
+Importance of XMPP
+ELAN
+»
+Grr
+
+Online 
+presence
+stronger 
+trust
+quicker 
+responses
+faster 
+deals
+creates
+which leads to
+resulting in
+XMPP at IndiaMART
+Platform independent implementation
+XMPP Implementation
+Send Notification / Alert to
+Send Message Service recelver
+Messages
+DB <SE visting architecure
+
+200 OK, Success
+
+Chat screen is refreshed
+after receiving the event
+
+Sender sends event to XMPP sends MSG to
+MPP server aroceher receiver using receiver 1D |< Newly Added Architecture
+H XMPP (Opentire)
+Lj
+
+Server
+
+
+XMPP Working
+Gopentire
+
+XxMeP
+‘SERVER
+
+3. Clee send
+‘message via send
+reply service
+
+Performance Measure
+* will be shared from next review
+Current Challenges
+Thank You!

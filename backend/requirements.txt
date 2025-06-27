@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+llama-index
+llama-index-embeddings-huggingface
+PyPDF2
+python-multipart
+requests
+pydantic

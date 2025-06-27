@@ -1,0 +1,3685 @@
+Hi everyone,
+We are glad to announce that we have ﬁxed the CLS issue on help.im  mobile website.
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im  mobile site.
+What is CLS:
+Cumulative Layout Shift  (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+The permissible limit is:
+For Good CLS it should be within 0.1.1.
+If it is between 0.1 and 0.25, it needs improvement.2.
+If it is more than 0.25 then it is poor.3.
+(To read more:  Web.dev )
+How was it earlier:
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also ﬂagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11 , as shown below:
+[Source:  Google search console ]
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Hi everyone,
+
+We are glad to announce that we have fixed the CLS issue on help.im mobile website.
+
+Business Objective:
+To reduce or remove the CLS(Cumulative Layout Shift) that was being experienced by users on the
+pages of help.im mobile site.
+
+What is CLS:
+
+Cumulative Layout Shift (CLS) is a stable Core Web Vital metric. It's an important, user-centric
+metric for measuring visual stability because it helps quantify how often users experience
+unexpected layout shifts. A low CLS helps ensure that the page is delightful.
+
+Unexpected layout shifts can disrupt the user experience in many ways, from causing them to lose
+their place while reading if the text moves suddenly, to making them click the wrong link or button.
+In some cases, this can do serious damage.
+
+The permissible limit is:
+
+1. For Good CLS it should be within 0.1.
+2. If itis between 0.1 and 0.25, it needs improvement.
+3. If itis more than 0.25 then it is poor.
+
+Cumulative Layout Shift
+
+(To read more: Web.dev)
+
+How was it earlier:
+
+It was observed on the help mobile site that the users are experiencing CLS on various article pages
+because of the shifting of elements on the page. The google search console also flagged it as an
+issue. There were a total of 233 pages affected with a group CLS of 0.11, as shown below:
+[Source: Google search console]
+
+
+Core web vitals of article page - CrUX dashboard data  (Indiamart Veriﬁed Exporter Service ):
+[Source:  PageSpeed Insights ]
+Lab test:
+[Source:  Core web vitals chrome extension ]
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+240
+233 URLs in this group @ x
+160
+Group CLS Severity
+
+80 O 1 1 Need Improvement
+
+0
+2/15/24 3/3/24 3/20/24 4/6/24 4/23/24 5/10/24 User experience is evaluated for URL groups, not individual URLs. Learn
+
+more
+
+https://help.indiamart.com/knowledge-base/trustseal/ 0.06
+
+URL groups ® https://help.indiamart.com/knowledge-base/mdc/ 0.05
+
+https://help.indiamart.com/knowledge-base/indiamart-verified- 0.25
+
+Example URL @ Group population @ ~ Group CLS exporter-service/
+https://help.indiamart.com/knowledge-base/ 233 0.11 https://help.indiamart.com/knowledge-base/customer-care-nu 0.18
+now-login-to-seller-im-via-otp-on-email/ mber/
+https://help.indiamart.com/knowledge-base/discontinuation-of- 0.01
+Rows perpage: 10 1-1 of 1 < > pay-with-indiamart-service-faqs/
+https://help.indiamart.com/knowledge-base/about-indiamart/ 0.09
+v v
+
+Core web vitals of article page - CrUX dashboard data (Indiamart Verified Exporter Service):
+[Source: PageSpeed Insights]
+
+https://help.indiamart.com/knowledge-base/indiamart-verified-exporter-service/ |
+
+a Mobile (©) Desktop
+
+., Discover what your real users are experiencing This URL Origin
+~—4s- Core Web Vitals Assessment: Failed @
+Expand view
+4 Largest Contentful Paint (LCP) Interaction to Next Paint (INP) ™ Cumulative Layout Shift (CLS)
+49s N/A A 0.25
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+
+What has been done:
+In our analysis it was concluded that a section of breadcrumbs on the article and category 1.
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as ﬁxed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+In one of our pages, namely ' Indiamart Veriﬁed Exporter Service ', there were third-party fonts 2.
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+Impact:
+Since 16th May, the aﬀected URLs due to CLS has dropped to zero. [Source: Google search console ]
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+a Seller Help
+es of Indiamart
+ndiamar|
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Sept 1,2020 May 20,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+* Reach 150+ Foreign Countries
+¢ Get Business From 1 CR+ Foreign Buyers
+e Exclusive Access to Foreign Export BuyLeads
+
+* Complimentary TrustSEAL
+
+Video for IndiaMART Verified
+Export Service (English)
+
+pees
+
+“af
+
+CLS: @.2086 LCP: @.75 s
+FID: 2.6000 Ms
+
+What has been done:
+
+1. In our analysis it was concluded that a section of breadcrumbs on the article and category
+pages had variable height, which kept changing according to the text in it. We have now kept
+the height of this section as fixed, so that its height doesn't change according to the contents in
+it. This correction has reduced the shifting by a lot.
+
+2. In one of our pages, namely 'Indiamart Verified Exporter Service’, there were third-party fonts
+being used. On their load, the content's font was changing and as a result some layout shift was
+happening. We have now removed those fonts from that page.
+
+Go live date and time:
+May 15th 2024, 8:17 pm
+Ticket: 514082
+
+Impact:
+Since 16th May, the affected URLs due to CLS has dropped to zero. [Source: Google search console]
+
+
+D
+a
+t
+eA
+ﬀ
+e
+c
+t
+e
+d
+U
+R
+L
+s
+2
+2
+4
+-
+5
+-
+12
+6
+2
+2
+4
+-
+5
+-
+22
+6
+2
+2
+4
+-
+5
+-
+32
+1
+3
+2
+2
+4
+-
+5
+-
+42
+1
+3
+2
+2
+4
+-
+5
+-
+52
+1
+3
+2
+2
+4
+-
+5
+-
+62
+1
+3
+2
+2
+4
+-
+5
+-
+72
+1
+8
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+GEoavuvpa~tOmgu a
+NNT TON AB NN TIT ON GTN TT FE NGM NN TT IE QW TT EM GBM NN TT TE OQ HDO WNT ' ON HOD
+
+2
+2
+4
+-
+5
+-
+82
+2
+1
+2
+2
+4
+-
+5
+-
+92
+2
+2
+2
+2
+4
+-
+5
+-
+1
+02
+2
+6
+2
+2
+4
+-
+5
+-
+1
+12
+2
+9
+2
+2
+4
+-
+5
+-
+1
+22
+3
+1
+2
+2
+4
+-
+5
+-
+1
+32
+3
+2
+2
+2
+4
+-
+5
+-
+1
+42
+3
+3
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+NNTI ANNE NN TI AQNNA NNT IH MIONN TO NN THON N A NNT HON PAN NN THON NNN DT! OLON A RD
+
+2
+2
+4
+-
+5
+-
+1
+52
+3
+3
+2
+2
+4
+-
+5
+-
+1
+60
+2
+2
+4
+-
+5
+-
+1
+70
+2
+2
+4
+-
+5
+-
+1
+80
+Core web vitals of individual page  (Indiamart Veriﬁed Exporter Service ):
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+BNN
+
+BNN QAP. WU, BNN OF. UW, BNN WNW,
+
+@Oriawn,
+
+Core Web Vitals > Mobile > CLS issue: more than 0.1 (mobile) & EXPORT
+
+A CLS issue: more than 0.1 (mobile)
+
+URLs with this issue need to improve the page experience they provide
+
+LEARN MORE
+
+Affected URLs
+
+0
+
+240
+160
+
+80
+
+0
+2/19/24 3/2/24 3/14/24 3/26/24 4/7/24 4/19/24 5/1/24 5/13/24
+
+Core web vitals of individual page (Indiamart Verified Exporter Service):
+
+
+[Source:  PageSpeed Insights ]
+Lab test:
+[Source:  Core web vitals chrome extension ]
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+[Source: PageSpeed Insights]
+
+41
+
+Performance vedas teen vena cp
+
+Service (English)
+
+Values are estimated and may vary. The performance score is calculated
+directly from these metrics. See calculator.
+
+A 0-49 lM 50-89 @ 20-100 .
+CLS fixed
+METRICS
+@ First Contentful Paint A Largest Contentful Paint
+08s 6.1s
+A Total Blocking Time @ Cumulative Layout Shift
+4,720 ms 0.012
+A Speed Index
+7.38
+Lab test:
+
+[Source: Core web vitals chrome extension]
+
+™_ indiamart
+
+Home / Knowledge Base / Seller Help
+Paid/Free Services of Indiamart / Paid Services of Indiamart
+
+Select Language ¥
+
+IndiaMART Verified Exporter Service
+
+Created Sept 1.2020 Modified May 15,2024
+
+\, Boost Your Business With Us
+
+Expand Your Business Around the
+Globe
+
+Reach 150+ Foreign Countries
+Get Business From 1 CR+ Foreign Buyers
+Exclusive Access to Foreign Export BuyLeads
+
+Complimentary TrustSEAL
+
+Video for IndiaMART Verified Export
+Service (English)
+
+CLS: @.0116 LCP: 5.68 s
+FID: 1.7000 Ms
+
+Expand view
+
+What to test:
+There should be no layout shifts on help article pages on mobile.1.
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+Largest Contentful Paint (LCP) - Mobile and desktop1.
+Interaction to Next Paint (INP) - Mobile2.
+CLS - Desktop3.
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+Word of thanks:
+This goal would not have been achievable without the following people:
+@Jatin Chitkara  for being a great help in identifying the issues and deﬁning the actionables.
+@Aditya Kunwar  from the help team for his insights and co-ordination.
+@Aakanksha Gupta , @Pradeep Chopra  and @Nikhil Prabhakar  for their continued support and
+guidance.
+---
+Regards,
+Divyansh Singh
+Engineer | Business Intelligence
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
+
+What to test:
+
+1. There should be no layout shifts on help article pages on mobile.
+
+Way ahead:
+We shall be working tirelessly on other web vitals that are not in good range for both help desktop
+and mobile site.
+
+1. Largest Contentful Paint (LCP) - Mobile and desktop
+2. Interaction to Next Paint (INP) - Mobile
+3. CLS - Desktop
+
+Our priority would be to solve the issues of the mobile site first as we currently have 0 good URLs
+there. Also google primarily crawls the mobile site.
+Apart from the above, we shall also check if third-party fonts are used on other pages as well.
+
+Word of thanks:
+This goal would not have been achievable without the following people:
+
+¢ @Jatin Chitkara for being a great help in identifying the issues and defining the actionables.
+
+e¢ @Aditya Kunwar from the help team for his insights and co-ordination.
+
+e @Aakanksha Gupta, @Pradeep Chopra and @Nikhil Prabhakar for their continued support and
+guidance.
+
